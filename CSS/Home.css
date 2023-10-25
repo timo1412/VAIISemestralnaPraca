@@ -1,0 +1,26 @@
+.section{
+    background-color: #6578b4;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    margin:10rem auto 0 auto ;
+}
+.section img {
+    height: 250px;
+
+}
+.section h1{
+    color: green;
+}
+.section p{
+    color: aqua;
+    margin-right: 15px;
+}
+
+
+
+
+
+
+
